@@ -13,5 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/annmariet/play.package
+URL: https://github.com/annmariet/play.package, https://annmariet.github.io/play.package/
 BugReports: https://github.com/annmariet/play.package/issues
