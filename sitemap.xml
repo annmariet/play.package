@@ -1,10 +1,10 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/LICENSE-text.html</loc></url>
-<url><loc>/LICENSE.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/str_split_one.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/404.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/LICENSE-text.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/LICENSE.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/authors.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/index.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/reference/index.html</loc></url>
+<url><loc>https://annmariet.github.io/play.package/reference/str_split_one.html</loc></url>
 </urlset>
 
