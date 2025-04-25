@@ -13,6 +13,10 @@ see [stringr](https://stringr.tidyverse.org),
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/annmariet/play.package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/annmariet/play.package/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/annmariet/play.package/graph/badge.svg)](https://app.codecov.io/gh/annmariet/play.package)
+
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting! It
